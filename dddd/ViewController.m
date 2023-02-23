@@ -15,10 +15,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [TestLog log];
+    //[TestLog log];
     //高效啊使用git. 阿达达法师发发呆分
     //1231款3金龙坑就哭了23就离开家
     // Do any additional setup after loading the view.
+    //这个是分支1分离出来的功能
 }
 
 
