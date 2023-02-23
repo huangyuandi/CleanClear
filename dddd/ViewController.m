@@ -15,7 +15,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    [TestLog log];
+    [TestLog      log]//这个不要主食;
     //高效啊使用git. 阿达达法师发发呆分
     //1231款3金龙坑就哭了23就离开家
     // Do any additional setup after loading the view.
