@@ -1,0 +1,6 @@
+framework module OSJXFramework {
+  umbrella header "OSJXFramework.h"
+
+  export *
+  module * { export * }
+}
